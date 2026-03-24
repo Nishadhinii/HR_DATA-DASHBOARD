@@ -3,6 +3,8 @@
 ## 🔍 Overview
 
 This project is an interactive **HR Analytics Dashboard** created using Microsoft Excel. It provides insights into employee data such as income, performance, job roles, and attrition. The dashboard is designed with a professional **Black & Gold theme** for better visualization and presentation.
+<img width="1826" height="734" alt="HR DATA DASHBOARD" src="https://github.com/user-attachments/assets/3046ed39-e6dc-4cc2-bbcc-7d14c831cb83" />
+
 
 ## 🎯 Objectives
 
